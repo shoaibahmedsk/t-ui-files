@@ -1,0 +1,169 @@
+
+#A - 4
+
+
+ac=Android camera
+am=Amazon
+as=Assistant
+az=amaze
+
+#B - 2
+
+bg=Battlegrounds India
+br=Browser
+
+#C - 8
+
+cl=Calculator 
+cr=Calendar
+ca=Camera 
+co=chrome
+ck=clock
+cp=clone Phone
+cs=Compass
+ct=Contacts
+
+#D - 1
+dr=Drive
+
+#E -0
+
+
+
+#F - 5
+
+fd=FDM
+fm=File Manager 
+f=Files
+fp=Finshell Pay
+fk=Flipkart
+fb=Facebook
+
+#G - 4
+
+gm=Gmail 
+g=Google
+ gs=Google Photos
+ gp=GPay
+gc=gCMOB
+
+#H -2
+
+hc=HeyTap cloud 
+ha=Hot Apps
+h=healthifyme
+
+#I - 2
+
+in=Instagram
+inp=InstaPro ♚
+
+
+
+#J - 0
+
+#K - 1
+
+kn=Keep notes
+
+#L - 2
+
+ln=Lens
+lr=Lightroom
+
+
+#M - 3
+
+mp=Maps
+ms=Messages
+mt=Mostory
+ m=Music
+my=myntra
+
+#o-1
+
+o=ORoaming
+
+#P - 6
+
+p=Phone
+pm=Phone Manager 
+pt=Photos
+pa=PicsArt
+pg=Play Games
+ps= Play Store
+pp=phonepe
+
+#Q
+
+#R -3
+
+rl=realme Link
+ r=Recorder
+re=Resso
+rd=reddit
+ra=rta m-wallet
+
+
+#S - 9
+
+s=Signal
+sn=Snapchat
+st=Settings
+sm=stellarium
+sw=swayam
+sp=Spotify
+
+#T - 3
+
+tui=T-UI
+tm=Theme Store
+tb=tor browser
+tw=Twitter
+tp=tinyplanetglobephoto
+po=Truecaller
+
+#U
+
+#V - 2
+v=Videos
+ v1=VN
+
+
+
+#W - 1
+
+wa=WhatsApp
+
+W=Weather
+
+#X
+
+#Y - 1
+
+yt=Youtube
+
+#Z - 2
+
+zd=Zedge 
+z5=ZEE5
+
+#T-UI Aliases
+
+cls=clear
+
+ref=refresh
+res=restart
+
+ssf=config -set show_suggestions false
+sst=config -set show_suggestions true
+config-set system_font false
+<i class="fa-brands fa-whatsapp"></i>
+<i class="fa-thin fa-signal"></i>
+<i class="fa-thin fa-mobile-signal-out"></i>
+
+
+
+
+
+<i=class="fas fa-wifi"></i>
