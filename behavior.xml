@@ -21,7 +21,7 @@
 <Whatsapp_format value="@"/>
 <battery_medium value="60"/>
 <battery_low value="20"/>
-<device_format value="iamshoaibahmed"/>
+<device_format value="psych"/>
 <ram_format value="Free RAM: %avgb GB of %totgb GB (%av%%)"/>
 <battery_format value="%(Charging: /)%v%"/>
 <storage_format value="Internal Storage: %iavgb GB / %itotgb GB (%iav%%)"/>
